@@ -34,4 +34,5 @@ dio-projeto-sudoku/
 
 
 👨‍💻 Autor
+
 Projeto desenvolvido por Rodrigo Tapia durante o bootcamp da DIO.
